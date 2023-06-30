@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VioletR2025
-- 👀 I’m interested in Web Developement, Software developement
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Developement, Software developement and consulting
+- 🌱 I’m currently learning Web Developement, Software developement and DSA
+
+- 📫 How to reach me  angela-roy-878a6a272
 
 <!---
 VioletR2025/VioletR2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
